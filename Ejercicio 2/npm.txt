@@ -1,0 +1,17 @@
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyARBf4O9u-lsd0tQO4P1DelroHuWTequwg",
+  authDomain: "examen-firebase-m2.firebaseapp.com",
+  projectId: "examen-firebase-m2",
+  storageBucket: "examen-firebase-m2.appspot.com",
+  messagingSenderId: "216601604580",
+  appId: "1:216601604580:web:28815d5bdc3dca469657f1"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);

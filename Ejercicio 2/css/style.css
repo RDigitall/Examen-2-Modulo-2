@@ -1,0 +1,29 @@
+.fondo{
+    background-color: rgb(79, 204, 196);
+}
+
+.logo{
+    width: auto;
+    height: 70px;
+}
+
+.container{
+    width: auto;
+    max-width: 54%;
+}
+
+.parrafo{
+    color: white !important;
+}
+
+.alert {
+    margin-bottom: 1em;
+    padding: 10px;
+    background: rgb(79, 204, 196);
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    border-radius: 2.5px;
+    display: none;
+  }
